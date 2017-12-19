@@ -1,0 +1,11 @@
+c:\users\alesi\source\repos\ApiFutebol\ApiFutebol\bin\Debug\netcoreapp2.0\ApiFutebol.deps.json
+c:\users\alesi\source\repos\ApiFutebol\ApiFutebol\bin\Debug\netcoreapp2.0\ApiFutebol.runtimeconfig.json
+c:\users\alesi\source\repos\ApiFutebol\ApiFutebol\bin\Debug\netcoreapp2.0\ApiFutebol.runtimeconfig.dev.json
+c:\users\alesi\source\repos\ApiFutebol\ApiFutebol\bin\Debug\netcoreapp2.0\ApiFutebol.dll
+c:\users\alesi\source\repos\ApiFutebol\ApiFutebol\bin\Debug\netcoreapp2.0\ApiFutebol.pdb
+c:\users\alesi\source\repos\ApiFutebol\ApiFutebol\obj\Debug\netcoreapp2.0\ApiFutebol.csprojResolveAssemblyReference.cache
+c:\users\alesi\source\repos\ApiFutebol\ApiFutebol\obj\Debug\netcoreapp2.0\ApiFutebol.csproj.CoreCompileInputs.cache
+c:\users\alesi\source\repos\ApiFutebol\ApiFutebol\obj\Debug\netcoreapp2.0\ApiFutebol.AssemblyInfoInputs.cache
+c:\users\alesi\source\repos\ApiFutebol\ApiFutebol\obj\Debug\netcoreapp2.0\ApiFutebol.AssemblyInfo.cs
+c:\users\alesi\source\repos\ApiFutebol\ApiFutebol\obj\Debug\netcoreapp2.0\ApiFutebol.dll
+c:\users\alesi\source\repos\ApiFutebol\ApiFutebol\obj\Debug\netcoreapp2.0\ApiFutebol.pdb
